@@ -1,0 +1,15 @@
+# title: Hacker theme
+# description: Hacker is a theme for GitHub Pages.
+# show_downloads: true
+# google_analytics:
+# theme: jekyll-theme-hacker
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# To preview site on the computer
+gem "github-pages", group: :jekyll_plugins
+
+title: [RCOS Demo]
+description: [Demo for RCOS Workshop 3rd Oct Workshop Lecture 2]
