@@ -44,7 +44,7 @@ To format text with HTML, you put tags around the text. For example, if you want
   </tr>
   <tr>
     <td>MarkDown CheatSheet</td>
-    <td><a href="[markdown]">CheatSheet Table</a> </td> 
+    <td><a href="markdown">CheatSheet Table</a> </td> 
   </tr>
   <tr>
     <td>HTML Tutorial</td>
